@@ -1,0 +1,19 @@
+{
+  "name": "polyfill-sample-app",
+  "version": "1.0.0",
+  "description": "My dandy Nuxt.js project",
+  "author": "sekido",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "face-api.js": "^0.22.2",
+    "fs": "^0.0.1-security",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
